@@ -1,6 +1,6 @@
 Flask==0.12.2
 requests==2.18.4
 pandas==0.21.1
-umpy==1.14.2
+numpy==1.14.2
 keras.models==2.1.3
 keras.preprocessing==2.1.3
