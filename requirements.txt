@@ -1,7 +1,7 @@
 Flask==0.12.2
 requests==2.18.4
 pandas==0.21.1
-pickle
+
 preprocessing==0.19.1
 numpy==1.14.2
 keras.models==2.1.3
