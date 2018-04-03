@@ -3,3 +3,5 @@ gunicorn==19.3.0
 requests==2.18.4
 pandas==0.21.1
 numpy==1.14.2
+configparser==3.5.0
+preprocessing==0.1.13
